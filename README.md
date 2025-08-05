@@ -3,7 +3,6 @@
 # World's first AI portfolio 🤖✨  
 
 **Static portfolios are dead.**  
-So I built [toukoum.fr](https://toukoum.fr).
 
 Instead of making you scroll endlessly, my portfolio adapts to *you*.  
 Ask a question — my AI avatar replies instantly.
