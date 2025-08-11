@@ -5,7 +5,7 @@
 **Static portfolios are dead.**  
 
 Instead of making you scroll endlessly, my portfolio adapts to *you*.  
-Ask a question — my AI avatar replies instantly.
+Ask a question — my AI avatar replies instantly
 
 ## 👇 What can you ask?
 
